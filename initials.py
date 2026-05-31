@@ -1,4 +1,4 @@
-# File: WEA.py
+# File: initials.py
 # Description: a program that prints my initials in massive block letters using 10prints stament written in a function
 # Assignment Number: 1
 #

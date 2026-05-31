@@ -15,7 +15,7 @@ def main():  # I defined the function it contains all the staments to print my i
   pass #code goes here
   print()
   print("...WEA")
-  print("")
+  print()
   print("...WW...WW...WW........EEEEEEEEEEEE..........AAAAAAAA.......")
   print("...WW...WW...WW........EEEEEEEEEEEE.........AAAAAAAAAA......")
   print("...WW...WW...WW........EEE.................AAAA....AAAA.....")
